@@ -85,7 +85,8 @@ public class T_015 {
     }
 
     public boolean excited(Map<Integer, Integer> map, Integer key){
-        
+        //todo
+        return true;
     }
 
     
