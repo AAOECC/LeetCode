@@ -8,4 +8,5 @@ LeetCode 中文站题解记录
 * [017](./solution/T_017.java)
 * [084](./solution/T_084.java)
 * [1218](./solution/T_1218.java)
+* [268](./solution/T_268.java)
 * [583](./solution/T_583.java)
